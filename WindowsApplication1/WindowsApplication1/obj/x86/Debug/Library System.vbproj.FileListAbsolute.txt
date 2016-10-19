@@ -8,3 +8,6 @@ C:\Users\Gothami\Documents\Visual Studio 2010\Projects\WindowsApplication1\Windo
 C:\Users\Gothami\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
 C:\Users\Gothami\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
 C:\Users\Gothami\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\C#\C--Library-System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\C#\C--Library-System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\C#\C--Library-System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
